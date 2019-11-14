@@ -6,3 +6,5 @@ Un premier classificateur des donnees, pour avoir un seuil.
 
 ##Ou developper:
 Creer un branche 'dev' pour y construir les choses
+
+Decision Tree / Random Forest

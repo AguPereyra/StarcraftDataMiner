@@ -1,4 +1,8 @@
 #Les fichier des donnees sont trop gros pour les mettre.
 /data
+<<<<<<< HEAD
 kernel/.ipynb_checkpoints/*
 
+=======
+kernel/.ipynb_checkpoints/
+>>>>>>> 22d7569... Reparation du code

@@ -1,2 +1,4 @@
 #Les fichier des donnees sont trop gros pour les mettre.
 /data
+kernel/.ipynb_checkpoints/*
+
